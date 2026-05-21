@@ -1,0 +1,35 @@
+.add-blog {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.blog-form {
+  width: 700px;
+  background: #16213e;
+  border: 1px solid #444;
+  padding: 20px;
+}
+
+.blog-form h2 {
+  color: #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.blog-form input,
+.blog-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  background: #2d2d44;
+  border: 1px solid #444;
+  color: #e0e0e0;
+}
+
+.blog-form button {
+  background: #7c5cbf;
+  color: white;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+}
